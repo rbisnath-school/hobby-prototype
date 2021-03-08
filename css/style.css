@@ -1,0 +1,37 @@
+.gradient {
+    background-image: linear-gradient(#FFF7BE, white);
+    height: 250px;
+}
+
+
+.main {
+    width: 1440px;
+    font-family: 'Merriweather', 'Times New Roman', Times, serif;
+    margin: auto;
+}
+
+.navigation {
+    font-size: 20px;
+    font-weight: bold;
+    color: #77790B;
+    ;
+}
+
+.footer {
+    margin-top: 20px;
+    background: #77790B;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.display-4 {
+    font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #A5A911;
+    font-weight: normal;
+}

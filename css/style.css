@@ -17,6 +17,21 @@
     ;
 }
 
+.jumbotron {
+    background-image: url(../images/hero.png);
+    height: 450px;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+
+}
+
+
+.card { 
+    height: 535px;
+
+}
+
 .footer {
     margin-top: 20px;
     background: #77790B;

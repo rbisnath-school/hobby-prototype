@@ -29,8 +29,15 @@
 
 .card { 
     height: 535px;
+    
 
 }
+
+.body {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 
 .footer {
     margin-top: 20px;
@@ -49,4 +56,30 @@
     color: white;
     background-color: #A5A911;
     font-weight: normal;
+    border: none;
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: #A5A911;
+    font-weight: normal;
+}
+
+
+
+h1 {
+    font-size: 60px;
+    margin-top: 40px;
+
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
+    color: darkgrey;
+    margin-bottom: 30px;
+}
+
+p{
+    font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
 }
